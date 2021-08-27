@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @vladiadmin
-- 👀 I’m interested in software development
-- 🌱 I’m currently learning C#
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @vladiadmin - https://www.linkedin.com/in/vladimirmihalkov/ 
+- 👀 I’m interested in software development, cloud It era, business processes, IT service management
+- 🌱 I’m good at C#
+- 💞️ I’m looking to collaborate on any meaningful programmming project. 
+- 📫 How to reach me https://www.linkedin.com/in/vladimirmihalkov/
 
 <!---
 vladiadmin/vladiadmin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
