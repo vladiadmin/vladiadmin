@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @vladiadmin - https://www.linkedin.com/in/vladimirmihalkov/ 
-- 👀 I’m interested in software development, cloud It era, business processes, IT service management
+- 👀 I’m interested in software development, the "Cloud IT Era", business processes, IT service management
 - 🌱 I’m good at C#
 - 💞️ I’m looking to collaborate on any meaningful programmming project. 
 - 📫 How to reach me https://www.linkedin.com/in/vladimirmihalkov/
